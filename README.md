@@ -1,8 +1,6 @@
 ## Hi there! I'm Aryan
 
 ![](https://github.com/aryan-401/aryan-401/blob/main/ConfigFiles/images/banner.png?raw=true)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aryan-401.aryan-401)
-
 ### The Perfect way to define me would be
 ```python
 class Me:
@@ -15,7 +13,7 @@ class Me:
         self.stackoverflow = {'user id': 14693811, 'name': "aryan-garg"}
         self.university = "Thapar Institute of Enginneering and Technology"
         self.code = {
-                'Proficient in': ["Python", "MySQL", "MongoDB", "My SQL"],
+                'Proficient in': ["Python", "MySQL", "MongoDB"],
                 'Learning': ["Kotlin", "React", "Django"],
                 'tools': ["GIT", "GitHub", "Pandas", "Jupyter Notebooks", "SQLAlchemy"]
     
@@ -37,4 +35,6 @@ if __name__ == "__main__":
 ### Some Fun Stats
 
 [![aryan_401's github stats](https://github-readme-stats.vercel.app/api?username=aryan-401&theme=dark&show_icons=true)](https://github.com/aryan_401)
-[![moshfiqrony's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14693811)](https://stackoverflow.com/users/9418800/aryan-garg)
+[![aryan-garg's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14693811)](https://stackoverflow.com/users/9418800/aryan-garg)
+<br>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aryan-401.aryan-401)
