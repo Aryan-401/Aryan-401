@@ -35,5 +35,6 @@ if __name__ == "__main__":
 ### Some Fun Stats
 
 [![aryan_401's github stats](https://github-readme-stats.vercel.app/api?username=aryan-401&theme=dark&show_icons=true)](https://github.com/aryan_401)
+[![@aryan401's Holopin board](https://holopin.me/aryan401)](https://holopin.io/@aryan401)
 <br>
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aryan-401.aryan-401)
