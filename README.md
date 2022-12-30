@@ -24,7 +24,6 @@ class Me:
 if __name__ == "__main__":
     thats_all_folks = Me()    
 ```
-### Some Fun Stats
 [![@aryan401's Holopin board](https://holopin.me/aryan401)](https://holopin.io/@aryan401)
 <br>
 
